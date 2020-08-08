@@ -1,4 +1,4 @@
 # Jupyter
-Repository of my python notebooks
+repository of my python notebooks
 
-Consists of data analysis and scientific computing work
+consists of data analysis and scientific computing work
