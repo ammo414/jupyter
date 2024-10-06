@@ -2,7 +2,7 @@
 Repository of my python notebooks. Consists of data analysis and scientific computing work
 
 ## Consumption+Leisure
-A sample of scientific computing/exploratory visualization for advanced macroeconomic theory regarding trade offs between consumption and lesure
+A sample of scientific computing/exploratory visualization for advanced macroeconomic theory regarding trade offs between consumption and leisure. In short, how should consumers optimally split their time between working (for the sake of consuming their income on good) and rest, or leisure?
 
 ## File Change Semantics
 A NLP project to implement semantic parser based off a classical semantic theory known as File Change Semantics. Some sample sentences are analyzed and parsed, and applications to cognitive science are discussed especially with regards to algorithm efficiency analysis.
